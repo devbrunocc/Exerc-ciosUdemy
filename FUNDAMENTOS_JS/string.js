@@ -7,3 +7,7 @@ console.log(escola.substring(3, 5)) //Imprime do indice três, até o quarto e c
 console.log("Escola:" .concat(escola).concat("cu"))
 console.log(escola.replace(2, 'e'))
 
+console.log("--------------------------")
+
+console.log("Bruno maria melissa" .split(" ")) //Divide cada coisa dentro do console em um array, com um parâmetro
+
