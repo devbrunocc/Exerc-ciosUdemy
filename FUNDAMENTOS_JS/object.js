@@ -6,8 +6,10 @@ obj.nacionalidade = "Brasileiro"
 obj2 = {
     nome: "BrunoC",
     idade : 17,
-    nacionalidade: Italiano
+    nacionalidade: "Italiano"
 }
+
+'{"nome:" "Bruno", "idade": 17}'
 
 console.log(obj)
 console.log(obj2)
