@@ -1,3 +1,0 @@
-coisas = {
-    idade: 1
-}                  

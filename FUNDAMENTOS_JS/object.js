@@ -13,3 +13,10 @@ obj2 = {
 
 console.log(obj)
 console.log(obj2)
+
+soma = {
+    n1: 17,
+    n2:17
+}
+var soma1 = soma.n1 + soma.n2;
+console.log(soma1)
